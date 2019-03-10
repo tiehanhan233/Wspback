@@ -1,0 +1,30 @@
+{
+  "name": "express-graphql-admin-antd",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.14.1",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
+    "customize-cra": "^0.2.12",
+    "react": "^16.8.4",
+    "react-app-rewired": "^2.1.0",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
